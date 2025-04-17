@@ -1,0 +1,6 @@
+﻿Stock Symbol,Type,Last Dividend,Fixed Dividend,Par Value
+TEA,Common,0.00,,100.00
+POP,Common,8.00,,100.00
+ALE,Common,23.00,,60.00
+GIN,Preferred,8.00,0.02
+JOE,Common,13.00,,250.00
